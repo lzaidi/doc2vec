@@ -6,7 +6,7 @@ This Python script implements a simple article recommendation system based on Gl
 
 1. **Clone Repository:**
     ```bash
-    git clone https://github.com/yourusername/article-recommendation.git
+    git clone https://github.com/lzaidi/article-recommendation.git
     ```
 
 2. **Navigate to the Project Directory:**
